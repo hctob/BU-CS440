@@ -46,6 +46,9 @@ int main(int argc, char** argv) {
     assert(typeid(std::size_t) == typeid(decltype(deq.size(&deq))));
     assert(deq.empty(&deq));
     printf("---- %s, %d\n", deq.type_name, (int) sizeof(deq.type_name));
-    printf("yeet");
+    printf("yeet\n");
+    deq.push_front(&deq, MyClass{0, "Mike"});
+    printf("Sizeof Deque: %d", deq.size(&deq));
+    printf("%s", deq.at(&deq, 0).name);
     return 0;
 }
