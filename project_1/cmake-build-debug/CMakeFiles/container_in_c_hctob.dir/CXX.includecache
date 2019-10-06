@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dbottch1/BU-CS440/container-in-c-hctob/Deque.hpp
+cstring
+-
+stdlib.h
+-
+
+/home/dbottch1/BU-CS440/container-in-c-hctob/test.cpp
+dlfcn.h
+-
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+stdint.h
+-
+random
+-
+unistd.h
+-
+string.h
+-
+algorithm
+-
+typeinfo
+-
+Deque.hpp
+/home/dbottch1/BU-CS440/container-in-c-hctob/Deque.hpp
+

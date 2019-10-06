@@ -1,0 +1,74 @@
+---- Deque_MyClass, 14
+-1
+Mary
+3
+Tom
+0
+Mike
+2
+Mary
+3
+Tom
+0
+Mike
+0
+Mike
+0
+Mike
+2
+Mary
+3
+Tom
+2
+Mary
+0
+Mike
+2
+Mary
+3
+Tom
+3
+Tom
+0
+Mike
+2
+Mary
+3
+Tom
+2
+Mary
+0
+Mike
+0
+Mike
+2
+Mary
+3
+Tom
+2
+Mary
+0
+Mike
+2
+Mary
+3
+Tom
+3
+Tom
+0
+Mike
+2
+Mary
+3
+Tom
+3
+Tom
+0==61511== 
+==61511== HEAP SUMMARY:
+==61511==     in use at exit: 0 bytes in 0 blocks
+==61511==   total heap usage: 1,000,103 allocs, 1,000,103 frees, 183,628,312 bytes allocated
+==61511== 
+==61511== All heap blocks were freed -- no leaks are possible
+==61511== 
+==61511== For counts of detected and suppressed errors, rerun with: -v
+==61511== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

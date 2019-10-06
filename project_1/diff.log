@@ -1,0 +1,110 @@
+7a8,9
+> 1
+> Joe
+10,11d11
+< 3
+< Tom
+17a18,19
+> 1
+> Joe
+20,23c22,23
+< 3
+< Tom
+< 2
+< Mary
+---
+> 1
+> Joe
+25a26,27
+> 1
+> Joe
+28,33d29
+< 3
+< Tom
+< 3
+< Tom
+< 0
+< Mike
+36,37c32,35
+< 3
+< Tom
+---
+> 0
+> Mike
+> 1
+> Joe
+39a38,39
+> 1
+> Joe
+43a44,45
+> 1
+> Joe
+46,49c48,49
+< 3
+< Tom
+< 2
+< Mary
+---
+> 1
+> Joe
+51a52,55
+> 1
+> Joe
+> 2
+> Mary
+54,57d57
+< 3
+< Tom
+< 3
+< Tom
+59a60,63
+> 1
+> Joe
+> 2
+> Mary
+62,65d65
+< 3
+< Tom
+< 3
+< Tom
+69a70,71
+> 1
+> Joe
+72,75c74,75
+< 3
+< Tom
+< 2
+< Mary
+---
+> 1
+> Joe
+77a78,81
+> 1
+> Joe
+> 2
+> Mary
+80,83d83
+< 3
+< Tom
+< 3
+< Tom
+85a86,87
+> 1
+> Joe
+88,89d89
+< 3
+< Tom
+99a100
+> 1
+101d101
+< 3
+108,110c108,112
+< 1000103 allocations totalling 183628312 bytes
+< 5.01user 0.01system 0:05.03elapsed 99%CPU (0avgtext+0avgdata 41932maxresident)k
+< 0inputs+0outputs (0major+4491minor)pagefaults 0swaps
+---
+> 128 allocations totalling 144519552 bytes
+> 
+> real	0m2.534s
+> user	0m2.428s
+> sys	0m0.100s
