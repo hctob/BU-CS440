@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dbottch1/CLionProjects/Vector_LL/Vector_LL.h
+iostream
+-
+string
+-
+initializer_list
+-
+
+/home/dbottch1/CLionProjects/Vector_LL/main.cpp
+iostream
+-
+string
+-
+Vector_LL.h
+/home/dbottch1/CLionProjects/Vector_LL/Vector_LL.h
+

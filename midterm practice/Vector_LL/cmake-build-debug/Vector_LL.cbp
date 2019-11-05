@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Vector_LL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\.local\;CMake Files\..\..\.local\share\;CMake Files\..\..\.local\share\JetBrains\;CMake Files\..\..\.local\share\JetBrains\Toolbox\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Compiler\;CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Internal\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector_LL">
+				<Option output="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Vector_LL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Vector_LL"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector_LL/fast">
+				<Option output="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Vector_LL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Vector_LL/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dbottch1/CLionProjects/Vector_LL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/Vector_LL.h">
+			<Option target="Vector_LL"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/main.cpp">
+			<Option target="Vector_LL"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeCInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeCXXInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeCommonLanguageInclude.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeFindCodeBlocks.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeGenericSystem.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeInitializeConfigs.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeLanguageInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeSystemSpecificInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/CMakeSystemSpecificInitialize.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/ProcessorCount.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux-GNU-C.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux-GNU-CXX.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux-GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Platform/Linux.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Platform/UnixPaths.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Compiler/CMakeCommonCompilerMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Compiler/GNU-C.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Compiler/GNU-CXX.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Compiler/GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/dbottch1/CLionProjects/Vector_LL/../../.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/share/cmake-3.15/Modules/Internal/CMakeCheckCompilerFlag.cmake">
+			<Option virtualFolder="CMake Files\..\..\.local\share\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\linux\share\cmake-3.15\Modules\Internal\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
