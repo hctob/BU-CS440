@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dbottch1/BU-CS440/assignment4-hctob/Array.hpp
+stdio.h
+-
+utility
+-
+stdlib.h
+-
+vector
+-
+
+/home/dbottch1/BU-CS440/assignment4-hctob/main.cpp
+Array.hpp
+/home/dbottch1/BU-CS440/assignment4-hctob/Array.hpp
+

@@ -1,0 +1,4 @@
+/import/linux/home1/dbottch1/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.103/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dbottch1/BU-CS440/assignment4-hctob
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dbottch1/BU-CS440/assignment4-hctob/cmake-build-debug
