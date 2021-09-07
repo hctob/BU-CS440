@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/assignment4_hctob.dir/main.cpp.o  -o assignment4_hctob 

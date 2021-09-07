@@ -8,14 +8,16 @@
 namespace cs540 {
     template<typename T, size_t... Dims>
     class Array {
+        assert(Dims > 0); //cause error if array dims are not valid
     private:
-        //T*
+        //T
+
     public:
         class FirstDimensionMajorIterator {
         public:
             size_t count;
-            FirstDimensionMajorIterator() : count(0) {
 
+            FirstDimensionMajorIterator() : count(0) {
             }
             FirstDimensionMajorIterator(const FirstDimensionMajorIterator& it) = default;
             FirstDimensionMajorIterator& operator=(const FirstDimensionMajorIterator& it) = default;
@@ -78,7 +80,7 @@ namespace cs540 {
         Array(const Array<U, Dims...> &arr) {
 
         }
-        Array operator=(const Array &) {
+        Array& operator=(const Array &) {
 
             return *this;
         }

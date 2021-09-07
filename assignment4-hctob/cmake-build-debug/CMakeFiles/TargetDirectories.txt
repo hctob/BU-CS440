@@ -1,3 +1,0 @@
-/home/dbottch1/BU-CS440/assignment4-hctob/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dbottch1/BU-CS440/assignment4-hctob/cmake-build-debug/CMakeFiles/assignment4_hctob.dir
-/home/dbottch1/BU-CS440/assignment4-hctob/cmake-build-debug/CMakeFiles/edit_cache.dir

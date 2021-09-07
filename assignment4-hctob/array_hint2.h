@@ -1,8 +1,0 @@
-//
-// Created by dbottch1 on 12/12/19.
-//
-
-#ifndef ASSIGNMENT4_HCTOB_ARRAY_HINT2_H
-#define ASSIGNMENT4_HCTOB_ARRAY_HINT2_H
-
-#endif //ASSIGNMENT4_HCTOB_ARRAY_HINT2_H
